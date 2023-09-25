@@ -14,8 +14,8 @@ Step 1: Open Android Studio and then click on File -> New -> New project. Step 2
 ~~~
 /*
 Program to print the text “GUIcomponent”.
-Developed by:V R Anu Ayshwarya
-Registeration Number :212221040016
+Developed by:R.K Pragalyaa shee
+Registeration Number :212221040125
 */
 activity_main.xml
 <?xml version="1.0" encoding="utf-8"?>
